@@ -1,0 +1,24 @@
+SMAP
+hotelDescription_jsp.java
+JSP
+*S JSP
+*F
++ 0 hotelDescription.jsp
+user/hotelDescription.jsp
+*L
+1,12:46
+13:58,3
+14:61
+15:62,3
+16,9:65
+24,5:74
+28,2:79
+30,6:81,3
+36:99
+37,4:101
+40,2:105
+42:107,3
+43,2:110
+45,2:113
+46,25:115
+*E

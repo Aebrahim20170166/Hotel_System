@@ -1,0 +1,12 @@
+SMAP
+filterHotels_jsp.java
+JSP
+*S JSP
+*F
++ 0 filterHotels.jsp
+user/filterHotels.jsp
+*L
+1,9:44
+10:53,3
+11,33:56
+*E

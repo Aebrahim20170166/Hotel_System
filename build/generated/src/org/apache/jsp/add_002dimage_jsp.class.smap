@@ -1,0 +1,13 @@
+SMAP
+add_002dimage_jsp.java
+JSP
+*S JSP
+*F
++ 0 add-image.jsp
+add-image.jsp
+*L
+5,5:44
+9:48,2
+10,40:50
+50:90,3
+*E
